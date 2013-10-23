@@ -1,8 +1,8 @@
 {
     "name": "emoji",
-    "description": "Emoji name-to-icon converter :thumbsup:",
+    "description": "Emoji symbol-to-icon converter :thumbsup:",
     "homepage": "https://github.com/AlarmingCow/meteor-emoji",
     "author": "Colin Cross (http://github.com/AlarmingCow)",
-    "version": "0.1.0",
+    "version": "0.9.0",
     "git": "https://github.com/AlarmingCow/meteor-emoji"
 }
