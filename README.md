@@ -22,7 +22,7 @@ emoji that don't actually exist (yet).
 ### Html
 If you wish to insert an Emoji inside your Html you can use the handlebars helper: `Emoji` followed by the name of the emoji you wish to display. E.g:
 ```
-{{Emoji ":alien:"
+{{Emoji ":alien:"}}
 ```
 
 ## Styling
