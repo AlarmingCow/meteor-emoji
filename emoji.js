@@ -11,3 +11,7 @@ Emoji.convert = function (str) {
         return "<img class='emoji' title='" + match + "' src='" + path + "'/>";
     });
 }
+
+Handlebars.registerHelper('Emoji',function(name, options){
+    return new Handlebars.SafeString(Emoji.convert(name));
+});
