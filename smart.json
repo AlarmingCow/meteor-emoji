@@ -3,6 +3,6 @@
     "description": "Emoji symbol-to-icon converter :thumbsup:",
     "homepage": "https://github.com/AlarmingCow/meteor-emoji",
     "author": "Colin Cross (http://github.com/AlarmingCow)",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "git": "https://github.com/AlarmingCow/meteor-emoji.git"
 }
